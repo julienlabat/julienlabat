@@ -2,4 +2,4 @@
 - 👀 I’m interested in generative art and all forms of creative coding.
 - 🌱 I’m currently learning Processing (Python mode).
 - 💞️ I’m looking to collaborate on anything exciting.
-- 📫 How to reach me julienlabat.fr
+- 📫 How to reach me : http://julienlabat.fr
