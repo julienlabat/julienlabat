@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @julienlabat, I'm a french illustrator with a passion for code.
 - 👀 I’m interested in generative art and all forms of creative coding.
-- 🌱 I’m currently learning Processing.py and P5.js.
 - 💞️ I’m looking to collaborate on anything exciting.
-- 📫 How to reach me : http://julienlabat.fr
+- 📫 How to reach me : https://twitter.com/julabat
