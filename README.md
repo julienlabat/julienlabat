@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @julienlabat, I'm a french illustrator with a passion for code.
-- 👀 I’m interested in generative art and all forms of creative coding.
-- 💞️ I’m looking to collaborate on anything exciting.
-- 📫 How to reach me : https://twitter.com/julienlabat
+👋 Hi, I’m @julienlabat, I'm a french generative artist.
+📫 How to reach me : https://twitter.com/julienlabat
